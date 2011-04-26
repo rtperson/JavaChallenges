@@ -1,0 +1,7 @@
+Lincoln: 655 words - time 16 ms
+
+Twain: 15973 words  - time 266 ms
+
+Twain 3: 100,495 words  - time 7672 ms
+
+All of Innocents Abroad: 210,202 words - time 35,078 ms
